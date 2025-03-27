@@ -1,9 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+  "tickets": [
+    
+  
+
+    
+    {
+      "id": "dada",
+      "ticketId": "T9673",
+      "name": "James Kioge",
+      "seat": "19",
+      "date": "2025-03-27",
+      "from": "Nairobi",
+      "to": "Ahero"
+    },
+    {
+      "id": "7582",
+      "ticketId": "T5582",
+      "name": "Griffin Bosire",
+      "seat": "19",
+      "date": "2025-02-27",
+      "from": "Nairobi",
+      "to": "Kisumu"
+    }
+  ]
+}  
